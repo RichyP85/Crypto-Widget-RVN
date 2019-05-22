@@ -25,19 +25,19 @@ To use this skin you must first download and install the Rainmeter desktop custo
 # Setup
 Upon opening the widget for the first time you will see two windows open like this:
 
-![Screenshot1](https://raw.githubusercontent.com/RichyP85/Crypto-Widget-RVN/Screens/Screen1.png)
+![Screenshot1](https://raw.githubusercontent.com/RichyP85/Crypto-Widget-RVN/master/Screens/Screen1.png)
 
 Under the address tab, you can enter your RVN address and select the pool your mining with.
 
-![Screenshot2](https://raw.githubusercontent.com/RichyP85/Crypto-Widget-RVN/Screens/Screen2.png)
+![Screenshot2](https://raw.githubusercontent.com/RichyP85/Crypto-Widget-RVN/master/Screens/Screen2.png)
 
 Once complete, your screen should look like below.
  
-![Screenshot3](https://raw.githubusercontent.com/RichyP85/Crypto-Widget-RVN/Screens/Screen3.png)
+![Screenshot3](https://raw.githubusercontent.com/RichyP85/Crypto-Widget-RVN/master/Screens/Screen3.png)
 
 # How to Use
 
-![Screenshot4](https://raw.githubusercontent.com/RichyP85/Crypto-Widget-RVN/Screens/Screen4.png)
+![Screenshot4](https://raw.githubusercontent.com/RichyP85/Crypto-Widget-RVN/master/Screens/Screen4.png)
 
 # Known Issues
 - RainRGB.exe, program used to change color of fonts, triggers AVG antivirus on my PC. No issues with program thus far.
