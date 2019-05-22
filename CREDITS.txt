@@ -1,0 +1,14 @@
+Layout adopted from Unse/unWidget Miner Stats
+	https://github.com/Unse/unWidget-miner-stats
+	- Added Bargraph
+	- Removed Difficulty and some price conversions
+	- Only kept USD & BTC price conversions
+	- Added shortcuts to Coin and Pool webpages
+
+Settings Icon added to access configuration screens
+
+Configuration screens adopted Flying Hyrax (flyinghyrax.deviantart.com)
+http://creativecommons.org/licenses/by-nc-sa/3.0/.
+	- Used RainRGB4 to setup custom coloring
+	- Setup screens allow users to change address and payout amount
+

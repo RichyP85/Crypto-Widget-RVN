@@ -1,0 +1,9 @@
+[Variables]
+; color settings
+NumColor=224,98,52,252
+barColor=88,245,18,183
+TextColor=255,255,255,252
+textMainColor=#textMainColor#
+BackgroundColor=47,47,47,
+BackgroundTrans=1
+Red=255,0,0,

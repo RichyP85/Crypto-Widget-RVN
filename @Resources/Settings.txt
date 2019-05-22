@@ -1,0 +1,28 @@
+[Variables]
+URL=Please Select a Pool
+Addr=Please click and input address
+MMAddr=Either a username or address
+Payment=100
+Version=1.0
+Pool=MM
+; API's & User Id's
+SNAPI=Please click and input API Key
+SNUID=Please click and input User ID #
+MPHAPI=Please click and input API Key
+MPHUID=Please click and input User ID #
+MMUID=Please click and input User ID
+; URL's
+SNHashrateAddr=https://rvn.suprnova.cc/index.php?page=api&action=getuserhashrate&api_key=#SNAPI#&id=#SNUID#
+SNBalanceAddr=https://rvn.suprnova.cc/index.php?page=api&action=getuserbalance&api_key=#SNAPI#&id=#SNUID#
+MPHHashrateAddr=https://ravencoin.miningpoolhub.com/index.php?page=api&action=getuserhashrate&api_key=#MPHAPI#&id=#MPHUID#
+MPHBalanceAddr=https://ravencoin.miningpoolhub.com/index.php?page=api&action=getuserbalance&api_key=#MPHAPI#&id=#MPHUID#
+RMHashrateAddr=https://www.ravenminer.com/site/wallet_miners_results?address=#Addr#
+RMBalanceAddr=https://www.ravenminer.com/site/wallet_results?address=#Addr#
+MMHashrateAddr=https://minermore.com/api/wallet_hashrate?wallet=#MMAddr#&symbol=RVN
+MMBalanceAddr=https://minermore.com/api/wallet?address=#MMAddr#&coin=RVN
+; Groups
+SN=1
+NP=1
+MM=1
+MPH=1
+RM=1
